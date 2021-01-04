@@ -1,0 +1,5 @@
+com\mycompany\deviceconvertor\Formula.class
+com\mycompany\deviceconvertor\CurrencyConvertor.class
+com\mycompany\deviceconvertor\Affichage.class
+com\mycompany\deviceconvertor\UserInputHandler.class
+com\mycompany\deviceconvertor\Main.class

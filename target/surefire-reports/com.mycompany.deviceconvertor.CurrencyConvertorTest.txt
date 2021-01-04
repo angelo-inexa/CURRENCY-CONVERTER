@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.deviceconvertor.CurrencyConvertorTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.896 s <<< FAILURE! - in com.mycompany.deviceconvertor.CurrencyConvertorTest
+testGetElementByIndex on testGetElementByIndex(com.mycompany.deviceconvertor.CurrencyConvertorTest)(com.mycompany.deviceconvertor.CurrencyConvertorTest)  Time elapsed: 0.008 s  <<< FAILURE!
+java.io.IOException: Cette formule n'existe pas
+	at com.mycompany.deviceconvertor.CurrencyConvertorTest.testGetElementByIndex(CurrencyConvertorTest.java:135)
+
+testPerformDeletion on testPerformDeletion(com.mycompany.deviceconvertor.CurrencyConvertorTest)(com.mycompany.deviceconvertor.CurrencyConvertorTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.io.IOException: Cette formule n'existe pas
+	at com.mycompany.deviceconvertor.CurrencyConvertorTest.testPerformDeletion(CurrencyConvertorTest.java:115)
+
